@@ -14,7 +14,7 @@ node{
 
         sh 'docker ps'
 
-        sh 'curl localhost'
+        sh 'curl localhost:50080'
 
     }
 
